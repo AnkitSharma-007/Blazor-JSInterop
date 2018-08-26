@@ -1,0 +1,15 @@
+@page "/demo"
+@using BlazorJSDemo.Pages
+
+@inherits JSDemoModel  
+
+<h1>JavaScript Interop Demo</h1>
+
+<hr />
+
+<button class="btn btn-primary" onclick="@CallJSMethod">Call JS Method</button>
+<button class="btn btn-primary" onclick="@CallCSMethod">Call C# Method</button>
+<br />
+<p id="demop"></p>
+<br />
+<p>@message</p>
