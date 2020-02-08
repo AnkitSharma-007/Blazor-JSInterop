@@ -1,7 +1,7 @@
 # Blazor-JSInterop
 In this article, we will learn about JavaScript Interop in Blazor. We will understand what JavaScript Interop is and how we can implement it in Blazor with the help of a sample application.
 
-We will be using Visual Studio 2019 for our demo.
+We will use Visual Studio 2019.
 
 # Demo
 
